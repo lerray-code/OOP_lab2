@@ -1,0 +1,14 @@
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\bin\Debug\Figure.dll.config
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\bin\Debug\Figure.dll
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\bin\Debug\Figure.pdb
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\obj\Debug\Figure.dll
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\obj\Debug\Figure.pdb
+D:\OOP\Новая папка\lad1\WindowsFormsApp1\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\bin\Debug\Figure.dll.config
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\bin\Debug\Figure.dll
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\bin\Debug\Figure.pdb
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\obj\Debug\Figure.dll
+D:\OOP\Новая папка\lab2\WindowsFormsApp1\Figure\obj\Debug\Figure.pdb
